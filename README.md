@@ -1,5 +1,5 @@
 # 💫 About Me:
-##👋 Hi, I'm Mohd Eisa
+# 👋 Hi, I'm Mohd Eisa
 
 I’m an AI Researcher, Full-Stack Developer, and the Founder of Alsa-AI.
 
