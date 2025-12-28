@@ -1,5 +1,11 @@
 # 💫 About Me:
-My Name Is Mohd Eisa<br>I am currently working on Alsa-Ai <br>I am an Ai Researcher Full Stack Developer And Founder Of Alsa-Ai<br>
+##👋 Hi, I'm Mohd Eisa
+
+I’m an AI Researcher, Full-Stack Developer, and the Founder of Alsa-AI.
+
+Currently, I’m working on Alsa-AI, a platform focused on building intelligent, practical, and scalable AI-powered solutions. My work spans across AI research, modern web technologies, and full-stack application development, with a strong emphasis on performance, usability, and real-world impact.
+
+I enjoy turning complex problems into clean, efficient systems and continuously exploring how AI can be integrated into everyday digital products.
 
 
 ## 🌐 Socials:
